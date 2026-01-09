@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+bcrypt
+python-multipart
+SQLAlchemy
+PyJWT
+pinecone
+python-dotenv
+email-validator
+
+# Document processing & embeddings (from milestones 1 & 2)
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-openai
+langchain-pinecone
+sentence-transformers
+docx2txt
+beautifulsoup4
+lxml
+pypdf
